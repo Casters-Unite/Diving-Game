@@ -4,7 +4,7 @@
 
 `Alpha` `Made in Turbowarp`
 
-To test the game go to [https://casters-unite.github.io/Dive-Game/](https://casters-unite.github.io/Dive-Game/)
+To test the game go to <a href="https://casters-unite.github.io/Dive-Game" target="_blank">https://casters-unite.github.io/Dive-Game</a>
 
 You can see the source by loading the [**sb3**](https://turbowarp.org/editor?project_url=https://github.com/Casters-Unite/Diving-Game/raw/main/Dive%20Game.sb3) file in [Turbowarp](https://turbowarp.org/editor?clones=Infinity&offscreen&limitless&size=640x360&fps=60&turbo). You can also see the resources inside it by renaming the file extension to **.zip**
 
